@@ -18,7 +18,7 @@ The Streamlit application is demonstrated in `app.py`, which converts the RAG mo
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/7homasjames/Semantic_Kernel.git
+    git clone https://github.com/7homasjames/chat_semantic_kernel.git
     ```
 2. Create a virtual Enviornmnet:
    ```bash
